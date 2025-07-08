@@ -3,7 +3,7 @@ import discord  # type: ignore
 from discord.ext import commands, tasks  # type: ignore
 from datetime import datetime, timedelta
 
-TOKEN = "MTM1NzAzNjc1ODY1ODk3Mzg5Ng.GJVMF1.DDpz5o9pi6FKgzL-7tWJSP1H7qscdGN19_dw78"
+TOKEN = "Token"
 
 intents = discord.Intents.default()
 intents.message_content = True
